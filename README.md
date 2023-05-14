@@ -93,12 +93,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ## Support
 For support, email amoltambe953@gmail.com
-## How to install 
-
-The easiest way to see how this works is to watch the series, but here's the short version.
-
-1. clone this project
-2. 
 
 ##How to tweak this project for your own uses
 Since this is an example project, I'd encourage you to clone and rename this project to use for your own puposes. It's a good starter boilerplate
