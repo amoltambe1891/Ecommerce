@@ -12,7 +12,7 @@ HTML5, CSS3, Bootstrap, ReactJS
 Spring Boot, Hibernate, MySQL
 
 ##Home Page:
-
+![2023-05-14 (7)](https://github.com/amoltambe1891/Ecommerce/assets/120792235/f878c454-e4e4-4bcf-b4dc-8b22f41ce955)
 
 
 
