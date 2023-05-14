@@ -1,3 +1,27 @@
+
+# “Milk Product Services”
+
+Dairy Milk Services is platform for Connecting and Managing local Milkmen in different
+places to help them grow their businesses and make more money. For both buyers and
+suppliers, this project offers superior options.
+
+
+## Frontend Technologies
+HTML5, CSS3, Bootstrap, ReactJS
+## Backend Technologies
+Spring Boot, Hibernate, MySQL
+
+##Home Page:
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
