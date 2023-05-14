@@ -17,6 +17,9 @@ Spring Boot, Hibernate, MySQL
 ![2023-05-14 (6)](https://github.com/amoltambe1891/Ecommerce/assets/120792235/9c5d2167-4676-4cd4-b5d2-5f7d6b59655f)
 ##Registration Page
 ![2023-05-14 (17)](https://github.com/amoltambe1891/Ecommerce/assets/120792235/54b9eba7-1caa-417b-83c5-beac57e3706d)
+##Seller Details
+![2023-05-14 (18)](https://github.com/amoltambe1891/Ecommerce/assets/120792235/40193699-8fe3-4e77-8031-eb4717b77697)
+
 
 
 
